@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-vaghasiya&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-vaghasiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronak-vaghasiya" alt="ronak-vaghasiya" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK TECHNOLOGY**
 
 - 📝 I regularly write articles on [https://dev.to/ronak-vaghasiya](https://dev.to/ronak-vaghasiya)
